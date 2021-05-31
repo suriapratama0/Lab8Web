@@ -49,9 +49,9 @@
 
 ![](Screenshot/12.jpg)
 
-![](Screenshot/13.jpg)
-
 <p> Membuat tambah barang. </p>
+
+![](Screenshot/13.jpg)
 
 ![](Screenshot/14.jpg)
 
@@ -63,11 +63,11 @@
 
 ![](Screenshot/16.jpg)
 
+<p> Membuat ubah barang. </p>
+
 ![](Screenshot/17.jpg)
 
 ![](Screenshot/18.jpg)
-
-<p> Membuat ubah barang. </p>
 
 ![](Screenshot/19.jpg)
 
