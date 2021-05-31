@@ -39,9 +39,9 @@
 
 ![](Screenshot/9.jpg)
 
-![](Screenshot/10.jpg)
-
 <p> Membuat Index. </p>
+
+![](Screenshot/10.jpg)
 
 ![](Screenshot/11.jpg)
 
